@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/Code%20Apache-License-blue.svg)
 ![learning](https://img.shields.io/badge/PHP-learning-blue.svg)
 
-Este repositório contém todos os assuntos que estudei no curso FSPHP do Robson V. Leite. O objetivo deste repositório é servir como um arquivo de consulta, uma forma rápida de rever algum assunto específico sobre a linguagem PHP.
+Este repositório contém todos os assuntos que estudei no curso FSPHP da UpInside Treinamentos. O objetivo deste repositório é servir como um arquivo de consulta, uma forma rápida de rever algum assunto específico sobre a linguagem PHP.
 
 #### Modulos do curso
 
