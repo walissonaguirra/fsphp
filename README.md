@@ -9,14 +9,14 @@ Este repositório contém todos os assuntos que estudei no curso FSPHP do Robson
 #### Modulos do curso
 
 <details>	
-  <summary><a href="https://github.com/walissonaguirra/fsphp">01. Olá Mundo</a></summary>
+  <summary>01. Olá Mundo</summary>
   <ul>
     <li>01-06 Iníciando Projeto</li>
   </ul>
 </details>
 
 <details>	
-  <summary><a href="https://github.com/walissonaguirra/fsphp">02. Iniciando do Zero com PHP</a></summary>
+  <summary>02. Iniciando do Zero com PHP</summary>
   <ul>
     <li>02-02 - Definindo Ambiente</li>
     <li>02-03 - Comandos de Saída</li>
@@ -33,7 +33,7 @@ Este repositório contém todos os assuntos que estudei no curso FSPHP do Robson
 </details>
 
 <details>	
-  <summary><a href="https://github.com/walissonaguirra/fsphp">03. Manipulação e Tratamento</a></summary>
+  <summary>03. Manipulação e Tratamento</summary>
   <ul>
     <li>03-02 - Funções para Strings</li>
     <li>03-03 - Funções para Arrays</li>
@@ -50,7 +50,7 @@ Este repositório contém todos os assuntos que estudei no curso FSPHP do Robson
 </details>
 
 <details>	
-  <summary><a href="https://github.com/walissonaguirra/fsphp">04. PHP Orientado a Objetos</a></summary>
+  <summary>04. PHP Orientado a Objetos</summary>
   <ul>
     <li>04-02 - Classes, Propriedades e Objetos</li>
     <li>04-03 - Qualificação e Encapsulamento</li>
@@ -67,7 +67,7 @@ Este repositório contém todos os assuntos que estudei no curso FSPHP do Robson
 </details>
 
 <details>	
-  <summary><a href="https://github.com/walissonaguirra/fsphp">05. Banco de Dados com PDO</a></summary>
+  <summary>05. Banco de Dados com PDO</summary>
   <ul>
     <li>05-03 - Erros de Execução e Conexão</li>
     <li>05-04 - Consultas com Query e Exec</li>
@@ -83,7 +83,7 @@ Este repositório contém todos os assuntos que estudei no curso FSPHP do Robson
 </details>
 
 <details>	
-  <summary><a href="https://github.com/walissonaguirra/fsphp">06. Segurança e Boas Práticas</a></summary>
+  <summary>06. Segurança e Boas Práticas</summary>
   <ul>
     <li>06-02 - Configurações do PHP</li>
     <li>06-03 - Configurações do Projeto</li>
