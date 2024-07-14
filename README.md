@@ -1,7 +1,7 @@
 ## Full Stack PHP Developer <img src="https://github.com/walissonaguirra/fsphp/assets/53498071/f674d550-fab6-4ba0-80de-4f9650e62363" width="15%" height="15%" align="right" valign="center" alt="Full Stack PHP Developer"/> 
 
 ![PHP](https://img.shields.io/badge/PHP-%5E8.2-blue)
-![License](https://img.shields.io/badge/Code%20Apache-License-blue.svg)
+![License](https://img.shields.io/badge/Code%20GNU-License-blue.svg)
 ![learning](https://img.shields.io/badge/PHP-learning-blue.svg)
 
 Este repositório contém todos os assuntos que estudei no curso FSPHP da UpInside Treinamentos. O objetivo deste repositório é servir como um arquivo de consulta, uma forma rápida de rever algum assunto específico sobre a linguagem PHP.
