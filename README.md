@@ -103,4 +103,4 @@ Este repositório contém todos os assuntos que estudei no curso FSPHP da UpInsi
 
 #### Licença
 
-Este projeto está licenciado sob a licença [Apache License 2.0](https://github.com/walissonaguirra/fsphp/blob/main/LICENSE).
+Este projeto está licenciado sob a licença [GNU General Public License v3.0](https://github.com/walissonaguirra/fsphp/blob/main/LICENSE).
